@@ -14,11 +14,11 @@ Debemos comenzar importando la librería NLTK
 ```
 ### Searching Text 
 
-Existen diferentes maneras de examinar el contexto de un fragmento de un texto, la `concondancia` nos muestra la palabra deseada junto con el contexto con el que se relaciona la palabra 
+Existen diferentes maneras de examinar el contexto de un fragmento de un texto, la `concordancia` nos muestra la palabra deseada junto con el contexto con el que se relaciona la palabra 
 
 Por ejemplo
 ```
->>> text.concordance("monstruos"
+>>> text.concordance("monstruos")
 
 output:
 
